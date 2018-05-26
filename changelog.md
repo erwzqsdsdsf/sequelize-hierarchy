@@ -369,6 +369,7 @@ Breaking changes:
 ## Next
 
 * Travis CI no tests for Node v4
+* Run Travis CI on Node v10
 * Update `lodash` dependency
 * Update `sequelize` dev dependency to v4.37.10
 * Update dev dependencies
