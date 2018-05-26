@@ -368,6 +368,7 @@ Breaking changes:
 
 ## Next
 
+* Fix: Tests close sequelize connection at end to avoid hang
 * Travis CI no tests for Node v4
 * Run Travis CI on Node v10
 * Update `lodash` dependency
