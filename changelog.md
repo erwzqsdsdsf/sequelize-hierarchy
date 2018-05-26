@@ -368,4 +368,5 @@ Breaking changes:
 
 ## Next
 
+* Update `lodash` dependency
 * Fix: Typo in changelog
