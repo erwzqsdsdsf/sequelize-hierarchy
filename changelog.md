@@ -369,5 +369,6 @@ Breaking changes:
 ## Next
 
 * Update `lodash` dependency
+* Update `sequelize` dev dependency to v4.37.10
 * Update dev dependencies
 * Fix: Typo in changelog
