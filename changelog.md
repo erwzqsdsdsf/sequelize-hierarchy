@@ -372,5 +372,6 @@ Breaking changes:
 * Run Travis CI on Node v10
 * Update `lodash` dependency
 * Update `sequelize` dev dependency to v4.37.10
+* Update database library dev dependencies in line with Sequelize v4.37.10
 * Update dev dependencies
 * Fix: Typo in changelog
